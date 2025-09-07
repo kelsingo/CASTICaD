@@ -1,2 +1,2 @@
 # CASTICaD
-CASTICaD is a ongoing project. 
+CASTICaD is an ongoing project. 
